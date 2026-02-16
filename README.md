@@ -27,6 +27,8 @@ The dataset originates from Hospital Sírio-Libanês and contains anonymized cli
 - streamlit
 - vega-datasets
 
+Note: The project does not use Altair / Vega-Lite in its source files, so `altair` is not required and is not listed in `requirements.txt`. If you have `altair` installed in your virtual environment, it is optional for this repository.
+
 ## 🚀 Run Locally
 
 1. Clone the repository (or your fork):
