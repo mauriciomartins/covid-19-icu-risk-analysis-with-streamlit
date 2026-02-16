@@ -4,4 +4,5 @@ openpyxl
 plotly
 streamlit
 urllib3
+Pillow
 altair==4.2.2
