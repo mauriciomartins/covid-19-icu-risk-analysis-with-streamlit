@@ -16,6 +16,9 @@ The dataset originates from Hospital Sírio-Libanês and contains anonymized cli
 - Aggregate patient-level data to avoid duplication bias
 - Analyze ICU admission rates by age group and time window
 - Create interactive visualizations using Plotly and Streamlit
+- 
+## Demo
+https://1homepy-6je2radiiqytcu8hg8pxvg.streamlit.app/
 
 ## 🛠 Technologies
 
