@@ -19,6 +19,14 @@ The dataset originates from Hospital Sírio-Libanês and contains anonymized cli
 - 
 ## Demo
 https://1homepy-6je2radiiqytcu8hg8pxvg.streamlit.app/
+<img width="3356" height="1650" alt="image" src="https://github.com/user-attachments/assets/dcd2d6c3-e2d5-4522-b7e5-3f9c19bbe87c" />
+<img width="3360" height="1644" alt="image" src="https://github.com/user-attachments/assets/4c26f7b6-e421-45b6-b5a4-c4353d048573" />
+<img width="3358" height="1642" alt="image" src="https://github.com/user-attachments/assets/a0cbdb43-b976-406f-8337-641576c1aae2" />
+<img width="3358" height="1638" alt="image" src="https://github.com/user-attachments/assets/828d1af3-0e94-46c3-bc73-05128a0da88c" />
+<img width="3352" height="1636" alt="image" src="https://github.com/user-attachments/assets/427a5894-a6a1-4aca-9a83-4b04a7e1870f" />
+<img width="3360" height="1634" alt="image" src="https://github.com/user-attachments/assets/eb188fb3-dcce-4607-8925-ddc8e932d749" />
+
+
 
 ## 🛠 Technologies
 
